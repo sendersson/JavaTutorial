@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37da9af6-4a45-464f-a36a-5208681a46ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../areaCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../areaCalculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../areaCalculator/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../areaCalculator/src/com/company/Main.java" afterDir="false" />
+    <list default="true" id="eb85af1e-6768-40ad-84e4-9c2ea61430a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/out/production/EqualityPrinter/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter/out/production/EqualityPrinter/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsAndDaysCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsAndDaysCalculator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../secondAndMinutesChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secondAndMinutesChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,22 +16,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1209128432">
+    <session id="212621170">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="505" />
+          <entry key="java" value="344" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="505" />
+          <entry key="JAVA" value="344" />
         </counts>
       </usages-collector>
     </session>
@@ -39,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -57,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="405" />
     <option name="y" value="60" />
     <option name="width" value="1750" />
@@ -71,15 +73,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534703531599" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../areaCalculator" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534704601469" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,7 +97,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="MinutesToYearsAndDaysCalculator" />
+      <module name="PlayingCat" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -115,16 +116,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37da9af6-4a45-464f-a36a-5208681a46ad" name="Default Changelist" comment="" />
-      <created>1534691877772</created>
+      <changelist id="eb85af1e-6768-40ad-84e4-9c2ea61430a7" name="Default Changelist" comment="" />
+      <created>1534703912975</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534691877772</updated>
+      <updated>1534703912975</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1126" extended-state="7" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -160,8 +161,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

@@ -9,9 +9,6 @@ public class Main {
         printEqual(-1,-1,-1);
         printEqual(1,2,3);
 
-        printEqual(1,2,2);
-        printEqual(1,2,1);
-
     }
 
     public static void printEqual(int firstNumber,int secondNumber,int thirdNumber){
