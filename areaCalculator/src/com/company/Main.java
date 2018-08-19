@@ -16,8 +16,8 @@ public class Main {
         if(radius < 0){
             return -1;
         }
-
-        return (radius * radius * Math.PI);
+        double pi = 3.14159;
+        return (radius * radius * pi);
 
     }
     public static double area(double x, double y){
