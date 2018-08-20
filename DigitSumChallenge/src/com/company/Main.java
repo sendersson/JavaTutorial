@@ -37,7 +37,7 @@ public class Main {
         return hundreds+tens+ones;
     }
 
-    private static int sumDigitsWithWhileLoop(int number){
+    private static int sumDigitsWithWhileLoop(int number){ // 12345
 
         if(number <10){
             return -1;
