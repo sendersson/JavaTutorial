@@ -4,6 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //Om man vill plussa på 2 vid varje loop:
+
+        for(int i = 0; i <= 20; i +=2){
+            System.out.println(i);
+        }
 
         /*
         double amount = 10000;
