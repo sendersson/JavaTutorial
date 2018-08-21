@@ -16,18 +16,12 @@ public class Main {
             return false;
         }
 
-        int sum1 = ;
+        int sum1 = firstNumber /10;
+        int sum2 = firstNumber %10;
+        int sum3 = secondNumber/10;
+        int sum4 = secondNumber%10;
 
-        while (firstNumber > 0){
-            int digit = firstNumber % 10;
-            sum1 += digit;
-
-            firstNumber /= 10;
-        }
-
-
-
-
+        return ((sum1 == sum3) || (sum1 == sum4) || (sum2 == sum3) || (sum2 == sum4));
 
     }
 
