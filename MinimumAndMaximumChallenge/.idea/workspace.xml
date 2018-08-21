@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9790d42d-cc80-43c2-a929-f4929cb0d1ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Classes/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstructorChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructorChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
