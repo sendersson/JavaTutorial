@@ -6,8 +6,8 @@ public class Car extends Vehicle {
     private boolean stick;
     private String color;
 
-    public Car(int speed, int wheels, int gear, boolean stick, String color) {
-        super(speed, wheels);
+    public Car(int speed, int wheels, String steering, int gear, boolean stick, String color) {
+        super(speed, wheels, steering);
         this.gear = gear;
         this.stick = stick;
         this.color = color;

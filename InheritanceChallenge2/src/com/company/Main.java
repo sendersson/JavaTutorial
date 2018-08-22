@@ -6,12 +6,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Porsche bil1 = new Porsche(50,4,1,true,"green", "Carrera", "V8");
+        Porsche bil1 = new Porsche(50,4,"left", 1,true,"green", "Carrera", "V8");
 
         bil1.honk();
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Skriv nåt: ");
-        scan.nextLine();
+        String userInput = scan.nextLine();
+        System.out.println(userInput);
     }
 }
