@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ec9ca50-6ae0-48fa-80c4-7efc42d4c87b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/ReverseArrayChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HouseChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HouseChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InheritanceChallenge2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MasteChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MasteChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinimumElementChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumElementChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinimumElementChallenge/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumElementChallenge/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,6 +27,7 @@
     <session id="2019282065">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -42,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="343">
+              <caret line="71" column="27" selection-start-line="55" selection-start-column="8" selection-end-line="71" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,7 +90,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535039962685" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535044972426" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,7 +150,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.329235" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329235" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329235" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -164,8 +171,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="343">
+          <caret line="71" column="27" selection-start-line="55" selection-start-column="8" selection-end-line="71" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

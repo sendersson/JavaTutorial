@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a653b551-79e6-44c7-ab15-803a395a602f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/ReverseArrayChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InheritanceChallenge2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MasteChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MasteChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinimumElementChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumElementChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinimumElementChallenge/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumElementChallenge/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,7 +27,7 @@
     <session id="1882852915">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.3" value="1" />
