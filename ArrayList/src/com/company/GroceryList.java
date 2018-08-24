@@ -17,6 +17,13 @@ class GroceryList {
         }
     }
 
+    void modifyGroceryItem(String itemName, String newItem){
+        int position = findItem(itemName);
+        if(position >=0){
+            modifyGroceryItem(position, newItem);
+        }
+    }
+
     void modifyGroceryItem(int position, String newItem) {
         groceryList.set(position, newItem);
         System.out.println("Position " + position + 1 + " has been modified to: " + newItem);
@@ -26,12 +33,10 @@ class GroceryList {
         groceryList.remove(position);
     }
 
-    String findItem(String searchItem) {
-        int position = groceryList.indexOf(searchItem);
-        if (position >= 0) {
-            return groceryList.get(position);
-        }
-        return null;
+    int findItem(String searchItem) {
+        int found = -1;
+        return groceryList.indexOf(searchItem);
+
     }
     int size(){
         return groceryList.size();

@@ -57,15 +57,10 @@ public class Main {
         groceryList.printGroceryList();
     }
     private static void modifyItem(){
-        System.out.println("Position: ");
-        int position = scanner.nextInt()-1;
-        scanner.nextLine();
-        if(position >= groceryList.size()){
-            System.out.println("Invalid position");
-        } else {
-            System.out.println("New item: ");
-            String newItem = scanner.nextLine();
-            groceryList.modifyGroceryItem(position, newItem);
+        System.out.println("Item name: ");
+        String itemName = scanner.nextLine();
+        String newItem = scanner.nextLine();
+        groceryList.modifyGroceryItem(itemName, newItem);
         }
     }
     private static void removeItem(){
@@ -81,10 +76,9 @@ public class Main {
     private static void findItem(){
         System.out.println("Name of item: ");
         String searchedItem = scanner.nextLine();
-        if(groceryList.findItem(searchedItem) != null){
-            System.out.println("Found " +searchedItem +" in your grocery list");
-        } else {
-            System.out.println("Item not found");
+        boolean exists = groceryList.findItem(searchedItem);
+        if(exists){
+            System.out.println("Item: " +searchedItem +" exists in the list");
         }
 
     }
