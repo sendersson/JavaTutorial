@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5837074-fd91-4b61-ba07-a3e60cc6255f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/out/production/ArrayList/com/company/GroceryList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/out/production/ArrayList/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/src/com/company/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/src/com/company/GroceryList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d5837074-fd91-4b61-ba07-a3e60cc6255f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +13,7 @@
     <session id="760723730">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />

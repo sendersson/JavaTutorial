@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ec9ca50-6ae0-48fa-80c4-7efc42d4c87b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/out/production/ArrayList/com/company/GroceryList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/out/production/ArrayList/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/src/com/company/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/src/com/company/GroceryList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FreeStylah/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FreeStylah/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,7 +17,7 @@
     <session id="2019282065">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
@@ -133,7 +129,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
