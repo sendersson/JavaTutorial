@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4c9895d-057b-4797-9f34-689ab0cfa29f" name="Default Changelist" comment="" />
+    <list default="true" id="b4c9895d-057b-4797-9f34-689ab0cfa29f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freestylah2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/Contact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/PhoneBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freestylah2/src/com/company/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/src/com/company/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freestylah2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freestylah2/src/com/company/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/src/com/company/PhoneBook.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +25,11 @@
     <session id="959577975">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -52,20 +65,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="565">
+              <caret line="48" column="5" selection-start-line="40" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -104,6 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -127,8 +142,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +188,7 @@
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,17 +239,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="48" column="5" selection-start-line="40" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
         </state>
       </provider>
     </entry>
