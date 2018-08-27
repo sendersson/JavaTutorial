@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3fdb9a5f-62b7-43cb-abdb-cfa5771ec4cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallengeTimsWay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallengeTimsWay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Freestylah2/com/company/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Freestylah2/com/company/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Freestylah2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Freestylah2/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Freestylah2/com/company/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Freestylah2/com/company/PhoneBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../William/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../William/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +16,7 @@
     <session id="1120485531">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />

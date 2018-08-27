@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4b81b19-04ab-4827-8873-8c2aa0a26570" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallengeTimsWay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallengeTimsWay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Freestylah2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/Contact.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/out/production/Freestylah2/com/company/PhoneBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Freestylah2/src/com/company/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/src/com/company/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Freestylah2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Freestylah2/src/com/company/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Freestylah2/src/com/company/PhoneBook.java" afterDir="false" />
-    </list>
+    <list default="true" id="b4b81b19-04ab-4827-8873-8c2aa0a26570" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +13,7 @@
     <session id="148863698">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
@@ -167,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535355045885" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535355128454" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -214,9 +202,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,7 +213,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.329235" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329235" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329235" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
